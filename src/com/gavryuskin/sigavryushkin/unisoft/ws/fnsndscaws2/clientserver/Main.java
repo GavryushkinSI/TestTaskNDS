@@ -11,7 +11,7 @@ import java.util.Scanner;
  e-mail:parsesignal@yandex.ru
  */
 
-public class Server {
+public class Main {
 
         private static FNSNDSCAWS2 fsn = new FNSNDSCAWS2();
         private static FNSNDSCAWS2Port port = fsn.getFNSNDSCAWS2Port();
